@@ -1,1 +1,1 @@
-[a relative link](markdown.md)
+[Vers la fiche Markdown](markdown.md)

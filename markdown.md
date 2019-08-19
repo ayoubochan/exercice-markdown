@@ -1,1 +1,1 @@
-[a relative link](google.md)
+[Vers la fiche Google](google.md)
