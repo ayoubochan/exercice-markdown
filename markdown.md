@@ -1,4 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+Markdown est un langage de balisage créé en 2004 par John Gruber avec Aaron Swartz. Son but est d’offrir une syntaxe facile à lire et à écrire. Un document balisé par Markdown peut être lu en l'état sans donner l’impression d'avoir été balisé ou formaté par des instructions particulières. 
+Un document balisé par Markdown peut être converti en HTML, en PDF ou en autres formats.
+=======
+[Vers la fiche Google](google.md)
+>>>>>>> origin/dev
+=======
 # Markdown exercise
 ## Team members
 @ayoubochan  
@@ -64,3 +71,4 @@ if (isAwesome){
 =======
 [Vers la fiche Google](google.md)
 >>>>>>> 2f86ba53af4840d035f40f89de5fc7f521d9e046
+>>>>>>> 5b9fac6000a920094548458f9536233a34dc8545
