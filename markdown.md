@@ -1,0 +1,54 @@
+# Markdown exercise
+## Team members
+@ayoubochan
+@NicolasTassin
+@marwane-akhlal
+
+
+## une liste à puces
+* Item 1
+* Item 2
+
+
+## une liste numérotée
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+
+## 2 ou 3 niveaux de titres et sous-titres
+### H3
+#### H4
+##### H5
+
+## LINKS
+[MarkDown](https://guides.github.com/features/mastering-markdown/)
+[Flavored MarkDown](https://github.github.com/gfm/#what-is-github-flavored-markdown-)
+[MarkDown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[MarkDown README](https://medium.com/becode/comment-faire-un-readme-sur-github-cc11f3df606a)
+[MarkDown BASICS](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+
+
+
+## IMAGES
+![MarkDown logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png)
+
+## liste (à puce ou ordonnée) imbriquées
+1. Item 1
+2. Item 2
+3. Item 3
+	* Item 3a
+	* Item 3b
+
+1. First list item
+    - First nested list item
+    - Second nested list item
+
+## coloration syntaxique
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
