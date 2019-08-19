@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Markdown exercise
 ## Team members
 @ayoubochan  
@@ -60,3 +61,6 @@ if (isAwesome){
 - [ ] insertion d’une image animée
 - [ ] au moins une liste (à puce ou ordonnée) - [ ] imbriquées (donc plusieurs niveaux hiérarchiques)
 - [ ] un bout de code, avec coloration syntaxique (par - [ ] exemple ce bout de code.
+=======
+[Vers la fiche Google](google.md)
+>>>>>>> 2f86ba53af4840d035f40f89de5fc7f521d9e046
