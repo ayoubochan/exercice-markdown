@@ -1,21 +1,15 @@
 # Markdown exercise
 ## Team members
 @ayoubochan  
-@NicolasTassin  
+@MehdiWill  
 @marwane-akhlal  
 
 
-## une liste à puces  
-* Item 1
-* Item 2
-
-
-## une liste numérotée
-
-1. Item 1
-2. Item 2
-3. Item 3
-
+## une liste à puces et liste numérotée (H2)
+* Item 1 (<span style=" color: red ">ul/li</span>)
+- SubItem 1 (ul/li/li)
+1. Item 1 (ol/li)
+- 2.1. numbered subItem 1 (ol/li/li)
 
 ## 2 ou 3 niveaux de titres et sous-titres
 ### H3
